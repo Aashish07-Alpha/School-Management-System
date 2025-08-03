@@ -30,7 +30,7 @@ const InfoSection = () => {
             <div className="space-y-4">
               <h2 className="text-4xl lg:text-5xl font-bold text-slate-800 leading-tight">
                 <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-                  Narayana Institute
+                  
                 </span>
                 <br />
                 More Than Grades
@@ -50,7 +50,7 @@ const InfoSection = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-semibold text-slate-800 mb-2">Proven Excellence</h3>
-                  <p className="text-slate-600">25+ years of academic excellence with consistently high results and student success stories.</p>
+                  <p className="text-slate-600">16+ years of academic excellence with consistently high results and student success stories.</p>
                 </div>
               </div>
 

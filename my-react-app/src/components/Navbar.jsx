@@ -80,8 +80,8 @@ const Navbar = () => {
                 <span className="text-white font-bold text-sm">N</span>
               </div>
               <div>
-                <div className="text-sm font-bold">NARAYANA INSTITUTE</div>
-                <div className="text-xs text-blue-200">Since 1979</div>
+                <div className="text-sm font-bold">Narayana's Sec. & Higher Sec. School</div>
+                <div className="text-xs text-blue-200">Since 2009</div>
               </div>
             </div>
 

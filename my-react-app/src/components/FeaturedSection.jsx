@@ -70,7 +70,7 @@ const FeaturedSection = () => {
         {/* Header Section */}
         <div className="text-center mb-16">
           <h2 className="text-3xl lg:text-4xl font-bold text-slate-800 mb-4">
-            Why Choose Narayana Institute?
+            Why Choose Narayana's Sec. & Higher Sec. School?
           </h2>
           <p className="text-lg text-slate-600 max-w-3xl mx-auto">
             We provide comprehensive education that focuses on academic excellence, character development, and holistic growth
