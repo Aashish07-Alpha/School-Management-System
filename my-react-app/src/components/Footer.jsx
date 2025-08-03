@@ -198,7 +198,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center">
             {/* Copyright */}
             <div className="text-gray-300 text-sm mb-4 md:mb-0">
-              © {currentYear} Narayana Institute. All rights reserved.
+              © {currentYear} Narayana's Sec. & Higher Sec. School All rights reserved.
             </div>
 
             {/* Social Links */}

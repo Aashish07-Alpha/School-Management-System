@@ -42,14 +42,14 @@ const AboutNarayan = () => {
                 The Visionary Behind Narayana
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Dr. P. Narayana, the founder of Narayana Group of Educational Institutions, is a renowned educationist and philanthropist. His journey began with a simple vision - to provide quality education to every child in India.
+                Anil Anant Dhumkekar, the founder of Narayana Group of Educational Institutions, is a renowned educationist and philanthropist. His journey began with a simple vision - to provide quality education to every child in India.
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 Starting from a small coaching center in 1979, Dr. Narayana has built an educational empire that spans across multiple states, serving millions of students and transforming the landscape of education in India.
               </p>
               <div className="flex space-x-4">
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-blue-600">40+</div>
+                  <div className="text-3xl font-bold text-blue-600">16+</div>
                   <div className="text-sm text-gray-600">Years of Excellence</div>
                 </div>
                 <div className="text-center">
@@ -64,7 +64,7 @@ const AboutNarayan = () => {
             </div>
             <div className="relative">
               <div className="bg-gradient-to-br from-blue-500 to-indigo-600 rounded-2xl p-8 text-white">
-                <h3 className="text-2xl font-bold mb-4">Dr. P. Narayana</h3>
+                <h3 className="text-2xl font-bold mb-4">Anil Anant Dhumkekar</h3>
                 <p className="text-blue-100 mb-4">
                   "Education is not just about imparting knowledge, but about building character, fostering creativity, and nurturing dreams. Every child deserves the opportunity to excel."
                 </p>
@@ -184,15 +184,15 @@ const AboutNarayan = () => {
           
           <div className="grid md:grid-cols-4 gap-8">
             <div className="text-center">
-              <div className="text-4xl font-bold mb-2">1979</div>
+              <div className="text-4xl font-bold mb-2">2009</div>
               <div className="text-blue-200">Founded First Center</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold mb-2">1990s</div>
-              <div className="text-blue-200">Expanded Nationwide</div>
+              <div className="text-4xl font-bold mb-2">2010</div>
+              <div className="text-blue-200">Expanded citywise</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold mb-2">2000s</div>
+              <div className="text-4xl font-bold mb-2">2020</div>
               <div className="text-blue-200">Digital Transformation</div>
             </div>
             <div className="text-center">
